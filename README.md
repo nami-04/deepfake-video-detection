@@ -1,0 +1,1 @@
+Analyze videos and determine whether they are real or fake using machine learning techniques. It employs a combination of Convolutional Neural Networks (CNNs) for feature extraction and Gated Recurrent Units (GRUs) for temporal sequence learning to capture both spatial and motion-based inconsistencies in deepfake videos.
